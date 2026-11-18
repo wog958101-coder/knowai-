@@ -1,0 +1,6 @@
+{
+  "name": "KnowFlow AI",
+  "description": "Turn your company knowledge into an AI assistant that gives instant, accurate answers with source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
